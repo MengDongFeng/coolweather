@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <databasebname value="coolweather"/>
+    <versiom value="1"/>
+    <list>
+        <mapping class="com.coolweather.coolweather.database.Province"/>
+        <mapping class="com.coolweather.coolweather.database.City"/>
+        <mapping class="com.coolweather.coolweather.database.County"/>
+    </list>
+</litepal>
